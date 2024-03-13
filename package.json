@@ -1,20 +1,23 @@
 {
-  "name": "taskscheduler1", 
-  "version": "1.0.0", 
-  "description": "by gold", 
+  "name": "taskscheduler1",
+  "version": "1.0.1",
+  "description": "by gold",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/SanyaGold03/taskscheduler1.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "sashagold", 
-  "license": "MIT"
+  "author": "sashagold",
+  "license": "MIT",
+  "dependencies": {
+    "datavalidationlibrary": "^1.0.0"
+  }
 }

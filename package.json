@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/SanyaGold03/taskscheduler.git" 
   },
   "keywords": [ 
     "", 
     "",
     ""
   ],
-  "author": "", 
+  "author": "sashagold", 
   "license": "MIT"
 }

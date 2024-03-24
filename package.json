@@ -18,6 +18,7 @@
   "author": "sashagold",
   "license": "MIT",
   "dependencies": {
+    "authenticationmiddleware12": "^1.0.1",
     "datavalidationlibrary": "^1.0.0"
   }
 }
